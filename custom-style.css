@@ -1,0 +1,14 @@
+.card.image-full:before {
+  background: rgba(19, 19, 24, 0.5);
+}
+
+.link {
+  color: rgba(255, 255, 255, 0.6);
+  line-height: 40px;
+}
+
+.footer-title {
+  color: white;
+  opacity: 100%;
+  font-size: 18px;
+}
